@@ -1,6 +1,6 @@
 # Facial Behavior - Script to analyse occurence-rates of different facial configurations in facial behavior datasets.
 
-##Background
+## Background
 Code is used for:
 
 Pieter A Blomsma, Julija Vaitonyte, Maryam Alimardani, and Max M Louwerse.2020.  
